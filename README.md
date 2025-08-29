@@ -1,4 +1,4 @@
-# ⚡ Yu-Gi-Pon
+# 🃏 Yu-Gi-Pon
 
 Este repositório é um **jogo de cartas interativo desenvolvido com JavaScript, HTML e CSS**, inspirado no universo de **Yu-Gi-Oh!**, usando a mecânica de **Jankenpo (pedra, papel e tesoura)** para batalhas estratégicas entre cartas.
 
@@ -15,7 +15,7 @@ Este repositório é um **jogo de cartas interativo desenvolvido com JavaScript,
 
 ## 📋 Índice
 
-- [⚡ Yu-Gi-Pon](#-yu-gi-pon)
+- [🃏 Yu-Gi-Pon](#-yu-gi-pon)
   - [✨ Demonstração](#-demonstração)
   - [📋 Índice](#-índice)
   - [💡 Sobre](#-sobre)
